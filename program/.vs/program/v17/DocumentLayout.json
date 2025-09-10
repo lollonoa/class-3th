@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 147,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp",
+              "RelativeDocumentMoniker": "program\\program.cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp",
+              "RelativeToolTip": "program\\program.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T09:13:27.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
