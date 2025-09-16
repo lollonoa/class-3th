@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Slime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\Slime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|solutionrelative:program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7ACC1136-51AA-4927-9950-A8D44E2E3CC1}|program\\program.vcxproj|solutionrelative:program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|solutionrelative:program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B326CAB-3382-43A2-8C6A-7FFB0FF44DD2}|class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B326CAB-3382-43A2-8C6A-7FFB0FF44DD2}|class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).vcxproj|solutionrelative:class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 4th (IT)\\class 4th (IT).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|solutionrelative:class 4th (IT)\\class 4th (IT).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCB707DA-07BC-41F4-A99B-9F7FA9FF85C5}|slass 2th (class)\\slass 2th (class).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\slass 2th (class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BCB707DA-07BC-41F4-A99B-9F7FA9FF85C5}|slass 2th (class)\\slass 2th (class).vcxproj|solutionrelative:slass 2th (class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|solutionrelative:program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A20E0068-7967-4D10-8776-55A83F49EE0A}|class 4th (IT)\\class 4th (IT).vcxproj|solutionrelative:program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B326CAB-3382-43A2-8C6A-7FFB0FF44DD2}|class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B326CAB-3382-43A2-8C6A-7FFB0FF44DD2}|class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).vcxproj|solutionrelative:class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B7D64E6-D633-4F04-9077-7120BD89E186}|class1th (stream)\\class1th (stream).vcxproj|D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class1th (stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,63 +58,141 @@
       "DocumentGroups": [
         {
           "DockedHeight": 147,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Slime.h",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Slime.h",
+              "RelativeDocumentMoniker": "program\\Slime.h",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Slime.h",
+              "RelativeToolTip": "program\\Slime.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T10:40:58.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Consumable.cpp",
-              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.cpp",
-              "RelativeDocumentMoniker": "program\\Consumable.cpp",
-              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.cpp",
-              "RelativeToolTip": "program\\Consumable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Monster.cpp",
+              "RelativeDocumentMoniker": "program\\Monster.cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Monster.cpp",
+              "RelativeToolTip": "program\\Monster.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T10:28:51.589Z",
+              "WhenOpened": "2025-09-16T10:22:27.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Monster.h",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Monster.h",
+              "RelativeDocumentMoniker": "program\\Monster.h",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Monster.h",
+              "RelativeToolTip": "program\\Monster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T10:22:12.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Consumable.h",
               "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.h",
               "RelativeDocumentMoniker": "program\\Consumable.h",
               "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.h",
               "RelativeToolTip": "program\\Consumable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-15T10:27:49.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "class 3th (constryctor \u0026 Destryctor).cpp",
-              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
-              "RelativeDocumentMoniker": "class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
-              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
-              "RelativeToolTip": "class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
-              "ViewState": "AgIAACgAAAAAAAAAAADwv5kAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-15T10:23:39.806Z",
+              "WhenOpened": "2025-09-16T10:04:55.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Potion.h",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Potion.h",
+              "RelativeDocumentMoniker": "program\\Potion.h",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Potion.h",
+              "RelativeToolTip": "program\\Potion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-16T10:12:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\slass 2th (class)\\source.cpp",
               "RelativeDocumentMoniker": "slass 2th (class)\\source.cpp",
               "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\slass 2th (class)\\source.cpp",
               "RelativeToolTip": "slass 2th (class)\\source.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-12T09:47:30.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "program.cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp",
+              "RelativeDocumentMoniker": "program\\program.cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp",
+              "RelativeToolTip": "program\\program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-10T09:13:27.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "class 4th (IT).cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 4th (IT)\\class 4th (IT).cpp",
+              "RelativeDocumentMoniker": "class 4th (IT)\\class 4th (IT).cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 4th (IT)\\class 4th (IT).cpp",
+              "RelativeToolTip": "class 4th (IT)\\class 4th (IT).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T10:02:36.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Consumable.cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.cpp",
+              "RelativeDocumentMoniker": "program\\Consumable.cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Consumable.cpp",
+              "RelativeToolTip": "program\\Consumable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T10:03:45.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Potion.cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Potion.cpp",
+              "RelativeDocumentMoniker": "program\\Potion.cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\Potion.cpp",
+              "RelativeToolTip": "program\\Potion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-16T10:14:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "source.cpp",
               "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class1th (stream)\\source.cpp",
               "RelativeDocumentMoniker": "class1th (stream)\\source.cpp",
@@ -102,16 +204,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "program.cpp",
-              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp",
-              "RelativeDocumentMoniker": "program\\program.cpp",
-              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\program\\program.cpp",
-              "RelativeToolTip": "program\\program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "class 3th (constryctor \u0026 Destryctor).cpp",
+              "DocumentMoniker": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
+              "RelativeDocumentMoniker": "class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
+              "ToolTip": "D:\\Users\\\uC11C\uB3D9\uAC74\\class-3th\\program\\class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
+              "RelativeToolTip": "class 3th (constryctor \u0026 Destryctor)\\class 3th (constryctor \u0026 Destryctor).cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv5kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-10T09:13:27.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T10:23:39.806Z"
             }
           ]
         }
