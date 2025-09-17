@@ -1,5 +1,7 @@
-﻿  Consumable.cpp
-  Potion.cpp
+﻿  Golem.cpp
+  Monster.cpp
+  Skeleton.cpp
+  Slime.cpp
   program.cpp
   코드를 생성하고 있습니다...
   program.vcxproj -> D:\Users\서동건\class-3th\program\x64\Debug\program.exe

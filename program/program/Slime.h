@@ -2,7 +2,8 @@
 #include "Monster.h"
 class Slime : public Monster
 {
-protected :
-
+public:
+	Slime();
+	void Describe();
 };
 
