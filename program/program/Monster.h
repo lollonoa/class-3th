@@ -6,8 +6,10 @@ protected:
 	int health;
 	int attack;
 	int defense;
+
 public:
 	void Stat();
 	virtual void Describe();
+	virtual ~Monster();
 };
 

@@ -1,7 +1,6 @@
 #include "Golem.h"
-#include <iostream>
+#include "stdafx.h"
 
-using namespace std;
 Golem::Golem()
 {	
 	name = "[Golem]";
@@ -12,4 +11,9 @@ Golem::Golem()
 void Golem::Describe()
 {
 	cout << "몸이 돌로 이루어 져 있다, 서식지 마다 특징이 다르다.\n" << endl;
+}
+
+Golem::~Golem()
+{
+	cout << "Destroy Golem" << endl;
 }
