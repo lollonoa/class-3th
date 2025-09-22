@@ -1,4 +1,2 @@
-﻿  Vector2.cpp
-D:\Users\서동건\class-3th\program\program\Vector2.cpp(13,1): warning C4172: 지역 변수 또는 임시 : vector의 주소를 반환하는 중
-  program.cpp
+﻿  program.cpp
   program.vcxproj -> D:\Users\서동건\class-3th\program\x64\Debug\program.exe
