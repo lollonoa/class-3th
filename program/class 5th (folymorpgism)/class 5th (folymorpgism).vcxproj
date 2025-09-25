@@ -135,7 +135,6 @@
     <ClInclude Include="..\program\Monster.h" />
     <ClInclude Include="..\program\Skeleton.h" />
     <ClInclude Include="..\program\Slime.h" />
-    <ClInclude Include="..\program\stdafx.h" />
     <ClInclude Include="..\program\Transform.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
