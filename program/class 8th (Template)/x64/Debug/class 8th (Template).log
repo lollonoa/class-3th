@@ -1,0 +1,6 @@
+﻿  Container.cpp
+  Language.cpp
+D:\Users\서동건\class-3th\program\program\Language.cpp(6,13): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  class 8th (Template).cpp
+  코드를 생성하고 있습니다...
+  class 8th (Template).vcxproj -> D:\Users\서동건\class-3th\program\x64\Debug\class 8th (Template).exe
