@@ -1,53 +1,56 @@
 ﻿#include "stdafx.h"
-#include <vector>
-#include <list>
+#include <stack>
+#include <queue>
 int main()
 {
-#pragma region 선형 컨테이너
-	// 데이터를 선형으로 저장하며, 특별한 제약이나 규칙이 없는 컨테이너 입니다.
+#pragma region 컨테이너 어댑터
+	//기존 컨테이너의 인터페이스를 제한하여 만든 기능이
+	//제한 되거나 변경된 컨테이너 입니다.
 
-#pragma region vector container
-	//vector<int> vector;
+#pragma region stack container
+	//stack<int>stack;
+	//stack.push(10);
+	//stack.push(20);
+	//stack.push(30);
+	//stack.push(40);
+	//stack.push(50);
+	//while (stack.empty() == false)
+	//{
+	//	cout << stack.top() << endl;
 
-	//vector.reserve(8);
-	//vector.push_back(10);
-	//vector.push_back(20);
-	//vector.push_back(30);
-	//vector.push_back(40);
-	//vector.push_back(50);
-
-	//vector.pop_back();
-
-	//for (int i = 0; i < vector.size(); i++)
-	//{	
-	//	cout << vector[i] << endl;
+	//	stack.pop();
 	//}
-
-	//vector.clear();
-	//cout << "vector의 size값 : " << vector.size() << endl;
-	//cout << "vector의 cpacity값 : "  << vector.capacity() << endl;
+#pragma region for을 쓸 경우
+//int n = stack.size(); 
+////for문이 반복되면 pop으로 인해 크기가 연속적으로 줄어들어 반복문이 빨리 끝난다.
+////기존 사이즈를 반복문 밖에 저장하여 반복문이 빨리 끝나는 것을 방지 해줘야 한다.
+//for (int i = 0; i < n; i++)
+//{
+//	cout << "stack :" << stack.top() << endl;
+//	stack.pop();
+//}
 #pragma endregion
 
-#pragma region list container
-	list<int> list;
 
-	list.push_back(20);
-	list.push_back(30);
+#pragma endregion
 
-	list.push_front(10);
+#pragma region queue container
 
-	list.pop_front();
-
-	list.push_front(1);
-
-	list.remove(20);
-
-	//범위기반 for문, 읽기 전용이면 const를 붙이는게 좋다
-	for (const int i : list)
+	queue<int> queue;
+	queue.push(10);
+	queue.push(20);
+	queue.push(30);
+	queue.push(40);
+	queue.push(50);
+	int n = queue.size();
+	for (int i = 0; i < n; i++)
 	{
-		cout << i << " ";
+		cout << "queue : " << queue.front() << endl;
+		queue.pop();
 	}
+
 #pragma endregion
+
 
 #pragma endregion
 
