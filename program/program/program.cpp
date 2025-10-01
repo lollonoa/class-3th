@@ -1,57 +1,31 @@
 ﻿#include "stdafx.h"
-#include <stack>
-#include <queue>
+#include <unordered_set>
+
+
 int main()
 {
-#pragma region 컨테이너 어댑터
-	//기존 컨테이너의 인터페이스를 제한하여 만든 기능이
-	//제한 되거나 변경된 컨테이너 입니다.
+#pragma region 연관 컨테이너
+	//특정한 방식으로 데이터를 저장하고 검색하는 컨테이너 입니다.
+	unordered_set<const char*>unordered_set;
 
-#pragma region stack container
-	//stack<int>stack;
-	//stack.push(10);
-	//stack.push(20);
-	//stack.push(30);
-	//stack.push(40);
-	//stack.push(50);
-	//while (stack.empty() == false)
-	//{
-	//	cout << stack.top() << endl;
+	unordered_set.reserve(16);
 
-	//	stack.pop();
-	//}
-#pragma region for을 쓸 경우
-//int n = stack.size(); 
-////for문이 반복되면 pop으로 인해 크기가 연속적으로 줄어들어 반복문이 빨리 끝난다.
-////기존 사이즈를 반복문 밖에 저장하여 반복문이 빨리 끝나는 것을 방지 해줘야 한다.
-//for (int i = 0; i < n; i++)
-//{
-//	cout << "stack :" << stack.top() << endl;
-//	stack.pop();
-//}
-#pragma endregion
+	unordered_set.max_load_factor(2.0);
 
+	unordered_set.insert("Doran's Blade");
+	unordered_set.insert("Ghost Dancer");
+	unordered_set.insert("The Fallen King's Sword");
 
-#pragma endregion
+	unordered_set.insert("Morellomicon"); 
+	unordered_set.insert("Echoes of Luden");
+	unordered_set.insert("Infinity Edge");
 
-#pragma region queue container
+	unordered_set.insert("Trinity Force");
+	unordered_set.insert("Zhonya’s Hourglass");
+	unordered_set.insert("Wit’s End");
 
-	queue<int> queue;
-	queue.push(10);
-	queue.push(20);
-	queue.push(30);
-	queue.push(40);
-	queue.push(50);
-	int n = queue.size();
-	for (int i = 0; i < n; i++)
-	{
-		cout << "queue : " << queue.front() << endl;
-		queue.pop();
-	}
-
-#pragma endregion
-
-
+	cout << "Load Factor : " << unordered_set.load_factor() << endl;
+	cout << "bucket Count: " << unordered_set.bucket_count() << endl;
 #pragma endregion
 
 
